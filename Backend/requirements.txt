@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+ultralytics
+opencv-python
+vtracer
+python-dotenv
+torch
+torchvision
+Pillow
+basicsr
+facexlib
+gfpgan
+realesrgan
+huggingface_hub
