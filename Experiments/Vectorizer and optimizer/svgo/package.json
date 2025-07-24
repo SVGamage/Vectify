@@ -1,0 +1,16 @@
+{
+  "name": "my-new-project",
+  "version": "1.0.0",
+  "description": "A simple project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "svgo": "3.3.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

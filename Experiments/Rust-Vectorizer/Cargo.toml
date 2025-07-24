@@ -1,0 +1,17 @@
+[package]
+name = "rust_vector"
+version = "0.1.0"
+edition = "2021"
+authors = ["Your Name <your.email@example.com>"]
+description = "A bitmap tracer that converts bitmap images to vector graphics"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+image = "0.25"
+imageproc = "0.25"
+svg = "0.18"
+clap = { version = "4.5.38", features = ['derive'] }
+
+[[bin]]
+name = "bitmap_tracer"
+path = "main.rs"
